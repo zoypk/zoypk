@@ -24,6 +24,12 @@ Software engineer working on multi-tenant SaaS systems, database correctness, re
 
 <p align="center">
   <sub>
+    <strong>Data:</strong>
+    <a href="https://www.postgresql.org/" title="PostgreSQL" style="color: inherit; text-decoration: none;">PostgreSQL</a> ·
+    <a href="https://redis.io/" title="Redis" style="color: inherit; text-decoration: none;">Redis</a>
+  </sub><br />
+
+  <sub>
     <strong>Build:</strong>
     <a href="https://go.dev/" title="Go" style="color: inherit; text-decoration: none;">Go</a> ·
     <a href="https://www.python.org/" title="Python" style="color: inherit; text-decoration: none;">Python</a> ·
@@ -32,12 +38,6 @@ Software engineer working on multi-tenant SaaS systems, database correctness, re
     <a href="https://www.djangoproject.com/" title="Django" style="color: inherit; text-decoration: none;">Django</a> ·
     <a href="https://react.dev/" title="React" style="color: inherit; text-decoration: none;">React</a> ·
     <a href="https://workers.cloudflare.com/" title="Cloudflare Workers" style="color: inherit; text-decoration: none;">Cloudflare Workers</a>
-  </sub><br />
-
-  <sub>
-    <strong>Data:</strong>
-    <a href="https://www.postgresql.org/" title="PostgreSQL" style="color: inherit; text-decoration: none;">PostgreSQL</a> ·
-    <a href="https://redis.io/" title="Redis" style="color: inherit; text-decoration: none;">Redis</a>
   </sub><br />
 
   <sub>
