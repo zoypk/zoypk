@@ -37,7 +37,7 @@ Software engineer working on multi-tenant SaaS systems, database correctness, re
     <a href="https://flask.palletsprojects.com/" title="Flask" style="color: inherit; text-decoration: none;">Flask</a> ·
     <a href="https://www.djangoproject.com/" title="Django" style="color: inherit; text-decoration: none;">Django</a> ·
     <a href="https://react.dev/" title="React" style="color: inherit; text-decoration: none;">React</a> ·
-    <a href="https://workers.cloudflare.com/" title="Cloudflare Workers" style="color: inherit; text-decoration: none;">Cloudflare Workers</a>
+    <a href="https://workers.cloudflare.com/" title="Cloudflare Workers" style="color: inherit; text-decoration: none;">Workers</a>
   </sub><br />
 
   <sub>
