@@ -1,6 +1,6 @@
 # Mohammed Zohil PK
 
-Software engineer working on multi-tenant SaaS systems, database correctness, release automation, and cost-conscious cloud infrastructure.
+Software engineer working on multi-tenant SaaS systems, database designs, release automation, and cost-conscious cloud infrastructure.
 
 <p align="center">
   <a href="https://go.dev/" title="Go"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" width="48" /></a>
