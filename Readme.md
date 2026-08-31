@@ -1,9 +1,6 @@
 # Mohammed Zohil PK
 
 Software engineer working on multi-tenant SaaS systems, database designs, release automation, and cost-conscious cloud infrastructure.
-
-<h3>Certifications</h3>
-
 <p>
   <a href="https://www.credly.com/badges/ef732758-aea4-492c-abc6-b6b6a3fd58ae/public_url"><img src="./assets/certifications/professional-data-engineer-certification.png" alt="Google Cloud Certified Professional Data Engineer" width="104" /></a>&nbsp;&nbsp;<a href="https://www.credly.com/badges/06b2e35b-a9d0-4f83-87db-c90b4a95a871/public_url"><img src="./assets/certifications/associate-cloud-engineer-certification.png" alt="Google Cloud Certified Associate Cloud Engineer" width="104" /></a>
 </p>
