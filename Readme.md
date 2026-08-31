@@ -2,6 +2,12 @@
 
 Software engineer working on multi-tenant SaaS systems, database designs, release automation, and cost-conscious cloud infrastructure.
 
+<h3>Google Cloud Certifications</h3>
+
+<p>
+  <a href="https://www.credly.com/badges/ef732758-aea4-492c-abc6-b6b6a3fd58ae/public_url"><img src="./assets/certifications/professional-data-engineer-certification.png" alt="Google Cloud Certified Professional Data Engineer" width="104" /></a>&nbsp;&nbsp;<a href="https://www.credly.com/badges/06b2e35b-a9d0-4f83-87db-c90b4a95a871/public_url"><img src="./assets/certifications/associate-cloud-engineer-certification.png" alt="Google Cloud Certified Associate Cloud Engineer" width="104" /></a>
+</p>
+
 <p align="center">
   <a href="https://go.dev/" title="Go"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" width="48" /></a>
   <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" width="48" /></a>
@@ -50,13 +56,4 @@ Software engineer working on multi-tenant SaaS systems, database designs, releas
     <a href="https://cloud.google.com/" title="Google Cloud" style="color: inherit; text-decoration: none;">Google Cloud</a> ·
     <a href="https://www.cloudflare.com/" title="Cloudflare" style="color: inherit; text-decoration: none;">Cloudflare</a>
   </sub>
-</p>
-
-<p align="center">
-  <a href="https://www.credly.com/badges/ef732758-aea4-492c-abc6-b6b6a3fd58ae/public_url">
-    <img src="./assets/certifications/professional-data-engineer-certification.png" alt="Google Cloud Certified Professional Data Engineer" width="96" />
-  </a>
-  <a href="https://www.credly.com/badges/06b2e35b-a9d0-4f83-87db-c90b4a95a871/public_url">
-    <img src="./assets/certifications/associate-cloud-engineer-certification.png" alt="Google Cloud Certified Associate Cloud Engineer" width="96" />
-  </a>
 </p>
