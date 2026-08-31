@@ -2,10 +2,6 @@
 
 Software engineer working on multi-tenant SaaS systems, database designs, release automation, and cost-conscious cloud infrastructure.
 
-<a href="https://www.credly.com/badges/ef732758-aea4-492c-abc6-b6b6a3fd58ae/public_url">
-  <img src="./assets/certifications/professional-data-engineer-certification.png" alt="Google Cloud Certified Professional Data Engineer" width="110" />
-</a>
-
 <p align="center">
   <a href="https://go.dev/" title="Go"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" width="48" /></a>
   <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" width="48" /></a>
@@ -15,6 +11,7 @@ Software engineer working on multi-tenant SaaS systems, database designs, releas
   <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="48" /></a>
   <a href="https://workers.cloudflare.com/" title="Cloudflare Workers"><img src="https://skillicons.dev/icons?i=workers&theme=dark" alt="Cloudflare Workers" width="48" /></a>
 </p>
+
   <p align="center">
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="48" /></a>
   <a href="https://redis.io/" title="Redis"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="48" /></a>
@@ -53,4 +50,10 @@ Software engineer working on multi-tenant SaaS systems, database designs, releas
     <a href="https://cloud.google.com/" title="Google Cloud" style="color: inherit; text-decoration: none;">Google Cloud</a> ·
     <a href="https://www.cloudflare.com/" title="Cloudflare" style="color: inherit; text-decoration: none;">Cloudflare</a>
   </sub>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/ef732758-aea4-492c-abc6-b6b6a3fd58ae/public_url">
+    <img src="./assets/certifications/professional-data-engineer-certification.png" alt="Google Cloud Certified Professional Data Engineer" width="96" />
+  </a>
 </p>
