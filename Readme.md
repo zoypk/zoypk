@@ -2,6 +2,10 @@
 
 Software engineer working on multi-tenant SaaS systems, database designs, release automation, and cost-conscious cloud infrastructure.
 
+<a href="https://www.credly.com/badges/ef732758-aea4-492c-abc6-b6b6a3fd58ae/public_url">
+  <img src="./assets/certifications/professional-data-engineer-certification.png" alt="Google Cloud Certified Professional Data Engineer" width="110" />
+</a>
+
 <p align="center">
   <a href="https://go.dev/" title="Go"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" width="48" /></a>
   <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" width="48" /></a>
