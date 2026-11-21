@@ -3,6 +3,7 @@
 Software engineer working on multi-tenant SaaS systems, database designs, release automation, and cost-conscious cloud infrastructure.
 <p>
   <a href="https://www.credly.com/badges/ef732758-aea4-492c-abc6-b6b6a3fd58ae/public_url"><img src="./assets/certifications/professional-data-engineer-certification.png" alt="Google Cloud Certified Professional Data Engineer" width="104" /></a>&nbsp;&nbsp;<a href="https://www.credly.com/badges/06b2e35b-a9d0-4f83-87db-c90b4a95a871/public_url"><img src="./assets/certifications/associate-cloud-engineer-certification.png" alt="Google Cloud Certified Associate Cloud Engineer" width="104" /></a>
+&nbsp;&nbsp;<a href="https://learn.microsoft.com/api/credentials/share/en-us/zoypk/1E73DA34C56D6A6A?sharingId=7B47E8C57AFA15D"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Microsoft Certified: Azure AI Apps and Agents Developer Associate" title="Microsoft Certified: Azure AI Apps and Agents Developer Associate" width="104" /></a>
 </p>
 
 <p align="center">
